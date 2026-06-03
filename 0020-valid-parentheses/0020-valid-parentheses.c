@@ -1,57 +1,38 @@
-typedef struct
-{
-    char arr[10000];
-    int top;
-}Stack;
 
-int is_empty(Stack stack)
-{
-    return stack.top==-1;
-}
-
-void pop(Stack*stack)
-{
-    (stack->top)--;
-}
-char peek(Stack  stack)
-{
-    return stack.arr[stack.top];
-}
-void add_element(Stack * stack, char val)
-{
-    stack->arr[++(stack->top)] =  val;
-}
-void add(Stack * stack, char val)
-{
-    stack->arr[++(stack->top)] =  val;
-}
 bool isValid(char* s) {
-    Stack stack;
-    stack.top= -1;
-    int i=0;
-    int len=strlen(s);
-
-    while (i<len)
-    {
-        char curr = s[i];
-        if(curr==')' && !is_empty(stack) && peek(stack)=='(')
-        {
-            pop(&stack);
-        }
-        else if(curr==']' && !is_empty(stack)&& peek(stack)=='[')
-        {
-            pop(&stack);
-        }
-        else if(curr=='}' && !is_empty(stack)&& peek(stack)=='{')
-        {
-            pop(&stack);
-        }
-        else
-        {
-            add(&stack,curr);
-        }
-        i++;
+    int len = strlen(s);
+    
+    if (len % 2 != 0) {
+        return false;
     }
-
-    return stack.top == -1;
+    
+    char* stack = (char*)malloc(len * sizeof(char));
+    int top = -1;
+    
+    for (int i = 0; i < len; i++) {
+        char current = s[i];
+        
+        if (current == '(' || current == '{' || current == '[') {
+            stack[++top] = current;
+        } 
+        else {
+            if (top == -1) {
+                free(stack);
+                return false;
+            }
+            
+            char open = stack[top--];
+            if ((current == ')' && open != '(') ||
+                (current == '}' && open != '{') ||
+                (current == ']' && open != '[')) {
+                free(stack);
+                return false;
+            }
+        }
+    }
+    
+    
+    bool result = (top == -1);
+    free(stack);
+    return result;
 }
