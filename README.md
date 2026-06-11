@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
