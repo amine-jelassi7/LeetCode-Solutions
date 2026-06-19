@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1732-find-the-highest-altitude](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
