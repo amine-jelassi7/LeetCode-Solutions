@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0071-simplify-path) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0067-add-binary) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0067-add-binary) |
 ## Binary Search
 |  |
