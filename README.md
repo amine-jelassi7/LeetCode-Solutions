@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0975-range-sum-of-bst](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0975-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0975-range-sum-of-bst](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0975-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0975-range-sum-of-bst](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0975-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Math
 |  |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0975-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Prefix Sum
 |  |
