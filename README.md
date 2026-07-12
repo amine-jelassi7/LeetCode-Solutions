@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [1256-rank-transform-of-an-array](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [1256-rank-transform-of-an-array](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Linked List
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0147-insertion-sort-list) |
+| [1256-rank-transform-of-an-array](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
