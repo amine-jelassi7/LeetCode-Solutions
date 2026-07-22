@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [1256-rank-transform-of-an-array](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [4321-digit-frequency-score](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/4321-digit-frequency-score) |
 ## Linked List
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [4168-mirror-distance-of-an-integer](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/4168-mirror-distance-of-an-integer) |
+| [4321-digit-frequency-score](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/4321-digit-frequency-score) |
 ## Bit Manipulation
 |  |
 | ------- |
