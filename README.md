@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0071-simplify-path) |
+| [0678-valid-parenthesis-string](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 ## Recursion
 |  |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0678-valid-parenthesis-string](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Matrix
 |  |
 | ------- |
@@ -257,5 +260,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
