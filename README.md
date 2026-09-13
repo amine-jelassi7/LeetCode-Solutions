@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1839-decode-xored-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 ## Binary Search Tree
 |  |
 | ------- |
