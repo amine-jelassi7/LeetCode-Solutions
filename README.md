@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0866-rectangle-overlap](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0866-rectangle-overlap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2235-add-two-integers](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
@@ -283,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3799-unique-3-digit-even-numbers](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
