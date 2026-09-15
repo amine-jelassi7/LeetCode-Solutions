@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 ## Recursion
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
+| [0234-palindrome-linked-list](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [3799-unique-3-digit-even-numbers](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Tree
 |  |
