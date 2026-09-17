@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0975-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1254-deepest-leaves-sum](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1254-deepest-leaves-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0975-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1254-deepest-leaves-sum](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1254-deepest-leaves-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [1254-deepest-leaves-sum](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1254-deepest-leaves-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0975-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1254-deepest-leaves-sum](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1254-deepest-leaves-sum) |
 ## Math
 |  |
 | ------- |
