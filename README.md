@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0866-rectangle-overlap](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0866-rectangle-overlap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0975-range-sum-of-bst) |
@@ -254,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amine-jelassi7/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
